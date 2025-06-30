@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157753495702",
+    "project_id": "docapp-55928",
+    "storage_bucket": "docapp-55928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157753495702:android:90bd962e986e14db52b2b7",
+        "android_client_info": {
+          "package_name": "com.example.docapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJv7xYgKnF7UuhVsKDssGCHTjQ6GYq-pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
