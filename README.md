@@ -2,6 +2,13 @@
 
 Welcome to *DoctorApp*, a sleek and modern Android application for scheduling doctor appointments, saving medical notes, chatting with an AI assistant, and more — all with a beautiful, intuitive UI.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
+
+
 ## ✨ Features
 
 - 🔐 *Custom Login & Registration*  
